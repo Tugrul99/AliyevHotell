@@ -1,0 +1,220 @@
+* {
+    box-sizing: border-box;
+}
+
+#title {
+    background-image: url(../images/pexels-pixabay-258154.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    
+
+}
+h4{
+    font-weight: 300;
+}
+
+.container-fluid {
+    padding: 3% 9% 8%;
+}
+
+.book-button {
+    position: sticky;
+    top: 0;
+    padding: 0;
+    background-color: #3C2A21;
+    border: #3C2A21;
+
+
+}
+
+/* Navbar */
+
+
+.brand-text {
+    font-family: 'Noto Serif Display', serif;
+    color: rgba(255, 255, 255, 0.5);
+    ;
+
+
+}
+
+hr {
+    height: 2px;
+    color: wheat;
+}
+
+.nav-item {
+    padding: 0px 18px;
+
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    color: white;
+    font-family: 'Noto Serif Display', serif;
+
+}
+
+.navbar {
+    padding: 0 0 4.5rem;
+
+}
+
+/* TITLE */
+.main-heading {
+    color: white;
+    font-family: 'Noto Serif Display', serif;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-size: 3.45rem;
+}
+
+.main-guide {
+    margin-top: 20%;
+    color: black;
+    font-size: 1.5rem;
+    font-family: 'Lora', serif;
+
+
+
+
+
+}
+
+.main-guide:hover {
+    color: rgb(2, 27, 27);
+    text-decoration: none;
+    font-weight: 600;
+    transition: 0.2s;
+}
+
+/* Features */
+#features {
+    text-align: center;
+
+
+    background-color: #3C2A21;
+}
+
+.about-headers {
+    text-align: center;
+
+    color: white;
+    font-family: 'Noto Serif Display', serif;
+    font-size: xx-large;
+
+
+
+}
+
+.about-img {
+    height: 300px;
+    max-width: 100%;
+    text-align: center;
+    margin: auto;
+    align-items: center;
+
+
+}
+
+.about-text {
+    text-align: left;
+    margin: auto;
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+/* ADRESS SECTION */
+#adress {
+    background-image: url(../images/pexels-elina-sazonova-1838554.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+
+    padding: 10% 20%;
+
+}
+
+.adress-paragh {
+    font-family: 'Noto Serif Display', serif;
+    font-size: 2rem;
+    color:black;
+    font-weight: 200;
+    text-decoration: none;
+}
+
+.adress-paragh:hover {
+    color: #3C2A21;
+    text-decoration: none;
+}
+
+.adress-heading {
+    margin-top: 3%;
+   text-align: center;
+    
+    font-size: 5rem;
+    color: black;
+    font-family: 'Noto Serif Display', serif;
+    text-transform: uppercase;
+    line-break: 5px;
+    
+
+}
+
+
+.adress-heading:hover {
+    color: #3C2A21;
+}
+
+
+/* Carousel SECTION */
+#contact-page {
+
+    background-color: #fff;
+    text-align: center;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+.carousel-img {
+    width: 80%;
+    height: auto;
+    margin: auto;
+    text-align: center;
+    padding-top: 3%;
+
+
+
+
+
+
+
+
+}
+
+/* Footer */
+#footer {
+    text-align: center;
+    padding: 4% 12%;
+    background-color: #F8F4EA;
+
+}
+
+.footer-icons {
+    font-size: xx-large;
+    margin-bottom: 3%;
+}
+
+.footer-icons i {
+    margin: 10px;
+}
+.fa-instagram{
+    color: red;
+
+}
